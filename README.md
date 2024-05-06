@@ -1,1 +1,1 @@
-STATISTICS PROJECT HYPOTHESIS TESTING 
+Statistics Project  on Hypothesis Testing. 
